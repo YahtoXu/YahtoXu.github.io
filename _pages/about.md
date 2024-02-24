@@ -44,7 +44,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 专业/方向：光学工程，从事特种**光场调控及自由空间光通信**相关方向研究
 
-[Researchgate](https://pages.github.com/)|[ORCID主页](https://pages.github.com/)|[BiliBili]([https://pages.github.com/](https://space.bilibili.com/397159427?spm_id_from=333.1007.0.0))|[新浪微博](https://pages.github.com/)
+[Researchgate](https://pages.github.com/)|[ORCID主页](https://pages.github.com/)|[BiliBili](https://space.bilibili.com/397159427?spm_id_from=333.1007.0.0)|[新浪微博](https://weibo.com/u/5839452237)
 
 期待同您一起探讨更多话题！
 
