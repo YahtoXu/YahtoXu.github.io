@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xdy11.png"
   name             : "许东野"
   pronouns         : # example: "she/her"  
   bio              : "Dongye Xu / Yahto Xu"
   location         : "中国 · 天津"
   employer         : "南开大学(Nankai University)"
-  uri              : # URL
+  uri              : https://YahtoXu.github.io 
   email            : " yahtoxu@mail.nankai.edu.cn " 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4278-7027"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : #“https://www.researchgate.net/profile/Dongye-Xu”
+  researchgate     : "https://www.researchgate.net/profile/Dongye-Xu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
