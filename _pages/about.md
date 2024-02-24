@@ -9,6 +9,9 @@ redirect_from:
 ![Editing a markdown file for a talk](/images/banner2.png)
 
 
+--------------------------------------------------------------
+
+
 ▌基本信息
 ======
 出生年月：2000年2月
