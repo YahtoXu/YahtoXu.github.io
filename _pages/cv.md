@@ -36,5 +36,5 @@ redirect_from:
 
 * **会议论文**
   * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//CLEO: Applications and Technology. Optica Publishing Group, 2022: JW3B. 173.
-  * Wang X, Xu T, Zhang Y,**Xu D**， et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
+  * Wang X, Xu T, Zhang Y, **Xu D**，et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
 
