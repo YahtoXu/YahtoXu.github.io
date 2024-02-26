@@ -9,37 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 博士(2023-):南开大学(Nankai University) 光学工程 （导师：刘波教授）
+* 硕士(2021-2023)：南开大学 光学工程（转攻博士学位）
+* 本科(2017-2021)：南开大学 光电信息科学与工程（天南大合办）
   
-Skills
+研究方向
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **特种光场调控与空间光通信技术**
+  * 无衍射光束、自加速光束等新颖光场调控技术研究
+  * 光场在湍流、散射介质中的传输特性研究
+  * 激光通信(Communication)、探测(Detection)、计量(Metrology)技术研究
+* **机器视觉与图像处理**
+  * 基于飞行时间(Time-of-flight, ToF)法的机器视觉
+  * 深度与红外强度融合(D-II Fusion)的物体识别与图像处理框架
+
 
 Publications
 ======
