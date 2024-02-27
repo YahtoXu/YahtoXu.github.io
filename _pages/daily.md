@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Daily life"
+title: "Daily Life"
 permalink: /daily/
 author_profile: true
 redirect_from:
@@ -15,9 +15,12 @@ redirect_from:
 科研 - 日积跬步
 ======
 
+[null]
+
 ---------------------------------------------
 旅行 - 停停走走
 ======
+
 * 海韵环岛，山青缀城
 ![qingdao](/images/lvxing/lv1.png)
 
