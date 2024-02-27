@@ -23,7 +23,7 @@ redirect_from:
   * 激光通信(Communication)、探测(Detection)、计量(Metrology)技术
 * **机器视觉与图像处理**
   * 基于飞行时间(Time-of-flight, ToF)法的机器视觉
-  * 深度与红外强度融合(D-II Fusion)的物体识别与图像处理框架
+  * 深度与红外强度融合的物体识别与图像处理框架
 
 
 发表论文
@@ -33,8 +33,14 @@ redirect_from:
   * 在投2
   * 在投3
   * 在投4
+  * 在投4
 
 * **会议论文**
   * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//CLEO: Applications and Technology. Optica Publishing Group, 2022: JW3B. 173.
   * Wang X, Xu T, Zhang Y, **Xu D**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
 
+参与课题
+======
+* 课题1
+* 课题2
+* 课题3
