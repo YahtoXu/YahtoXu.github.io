@@ -33,7 +33,6 @@ redirect_from:
   * 在投2
   * 在投3
   * 在投4
-  * 在投4
 
 * **会议论文**
   * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//CLEO: Applications and Technology. Optica Publishing Group, 2022: JW3B. 173.
