@@ -11,17 +11,6 @@ permalink: /news/news2
 
 点击查看[原文链接](https://imo.nankai.edu.cn/info/1054/1555.htm)
 
-实验概念图
-======
-
-![haidaotongxin](/images/newsfig/FSOz.png)
-<style>
-    img[alt="box"]{
-        width:160px;
-    }
-</style>
-
-海岛通信实验示意图
 
 
 
