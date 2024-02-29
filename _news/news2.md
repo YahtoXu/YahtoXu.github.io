@@ -2,7 +2,7 @@
 title: "新闻2"
 collection: news
 type: "Undergraduate course"
-permalink: /news/news1
+permalink: /news/news2
 ---
 
 
