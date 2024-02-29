@@ -1,5 +1,5 @@
 ---
-title: "新闻2"
+title: "光纤光子学团队完成低海拔海面29km、10Gbps高速激光通信外场试验"
 collection: news
 type: "Undergraduate course"
 permalink: /news/news2
@@ -7,14 +7,11 @@ permalink: /news/news2
 
 
 **摘要：**
+随着我国稳步推进海洋强国建设，无论是海洋资源勘探，生态保护，还是安全保障，都对海洋环境通信能力提升有着迫切需求。空间激光通信将信息“搭载”到光波上，通过对调制光波的发送和接收实现信息的传递，其具有通信速率高、通信容量大、抗干扰能力与空间指向性强等优点，是海洋环境长距离通信的有效实现手段。针对上述制约海面空间激光通信性能的关键问题，南开大学现代光学研究所刘波教授团队联合长春理工大学，在南海海域担杆镇部分岛屿间开展了高速率海面长距离激光通信实验，并首次实现了海洋强湍流、强吸收大气条件下链路长度29公里、速率10Gbps的稳定双向通信。
 
 
+![Editing a markdown file for a talk](/images/newsfig/FSOz.png)
 
-Heading 1
-======
+海岛通信实验示意图
 
-Heading 2
-======
-
-Heading 3
-======
+点击查看[原文链接](https://imo.nankai.edu.cn/info/1054/1555.htm)
