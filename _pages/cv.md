@@ -29,7 +29,8 @@ redirect_from:
 发表论文
 ======
 * **期刊论文**
-  * 在投1
+  * Lu Z, Guo M, **Xu D**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. Results in Physics, 2024: 107584.
+  * 在投1 - Changjin L, Lu Z, Xu D, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. Available at SSRN 4679506.
   * 在投2
   * 在投3
   * 在投4
