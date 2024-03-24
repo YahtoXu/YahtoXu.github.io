@@ -29,14 +29,14 @@ redirect_from:
 发表论文
 ======
 * **期刊论文**
-  * Lu Z, Guo M, **Xu D**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. **Results in Physics*, 2024: 107584.
+  * Lu Z, Guo M, **Xu D**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
   * 在投1 - Li C, Lu Z, **Xu D**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. Available at SSRN 4679506.
   * 在投2
   * 在投3
   * 在投4
 
 * **会议论文**
-  * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//**CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
+  * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
   * Wang X, Xu T, Zhang Y, **Xu D**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
 
 参与课题
