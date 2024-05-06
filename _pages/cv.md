@@ -29,11 +29,11 @@ redirect_from:
 发表论文
 ======
 * **期刊论文**
-  * Lu Z, Guo M, **Xu D**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
-  * 在投1 - Li C, Lu Z, **Xu D**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. Available at SSRN 4679506.
-  * 在投2
-  * 在投3
-  * 在投4
+  * **D. Xu**, Z. Lu, S. Duan, et al. Autofocusing and Self-Healing Properties of Circular Mathieu Beam Carrying Orbital Angular Momentum [Submitted].
+  * **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration XXXXXX [Submitted].
+  * **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped XXXXXX [Submitted].
+  * Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
+  * C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. Available at SSRN 4679506.
 
 * **会议论文**
   * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
