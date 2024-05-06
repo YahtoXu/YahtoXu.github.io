@@ -33,7 +33,7 @@ redirect_from:
   * **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration XXXXXX [Submitted].
   * **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped XXXXXX [Submitted].
   * Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
-  * C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. Available at SSRN 4679506.
+  * C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications*, 2024: 130616.
 
 * **会议论文**
   * **Xu D**, Xu T, Zhang Y, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
