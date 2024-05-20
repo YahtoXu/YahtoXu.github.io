@@ -34,11 +34,11 @@ redirect_from:
   * **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped XXXXXX [Under review].
   * Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
   * C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications*, 2024: 130616.
-  * M. Guo, ...**D. Xu** ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
+  * M. Guo, ..., **D. Xu** , ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
 
 * **会议论文**
   * **D. Xu**, T. Xu, Y. Zhang, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
-  * X. Wang, T. Xu, Y. Zhang, **D. Xu**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
+  * X. Wang, T. Xu, ..., **D. Xu**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
 
 参与课题
 ======
