@@ -29,8 +29,8 @@ redirect_from:
 发表论文
 ======
 * **期刊论文**
-  * **D. Xu**, Z. Lu, S. Duan, et al. Autofocusing and Self-Healing Properties of Circular Mathieu Beam Carrying Orbital Angular Momentum [Accepted].
-  * **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration XXXXXX [Submitted].
+  * **D. Xu**, Z. Lu, S. Duan, et al. Autofocusing and Self-Healing Properties of Circular Mathieu Beam Carrying Orbital Angular Momentum[J]. *Optics & Laser Technology*, 2024: 111186.
+  * **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration XXXXXX [Under review].
   * **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped XXXXXX [Under review].
   * Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics*, 2024: 107584.
   * C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications*, 2024: 130616.
@@ -42,6 +42,6 @@ redirect_from:
 
 参与课题
 ======
-* “海洋高速通信网络关键技术研究与验证”
-* 课题2
+* “海洋XXXXXX网络关键技术研究与验证”
+* “无衍射光束XXXXX传输特性”
 * 课题3
