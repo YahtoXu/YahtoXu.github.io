@@ -24,28 +24,28 @@ redirect_from:
 ======
 
 * **海韵环岛，山青缀城**
-![qingdao](/images/lvxing/lv1.png)
+![qingdao](/images/lvxing/lx1.png)
 
 * **弯儿卡姆 兔 北京**
-![beijing](/images/lvxing/lv2.png)
+![beijing](/images/lvxing/lx2.png)
 
 * **东北春城and华北国际大都市**
-![changchun_shijiazhuang](/images/lvxing/lv2.png)
+![changchun_shijiazhuang](/images/lvxing/lx2.png)
 
 * **西部双城记**
-![xian_chengdu](/images/lvxing/lv4.png)
+![xian_chengdu](/images/lvxing/lx4.png)
 
 * **漫长的夏日**
-![hainan](/images/lvxing/lv5.png)
+![hainan](/images/lvxing/lx5.png)
 
 * **“这岛上没吃的啊”** 
-![zhuhai](/images/lvxing/lv6.png)
+![zhuhai](/images/lvxing/lx6.png)
 
 * **身向榆关那畔行**
-![shanhai](/images/lvxing/lv7.png)
+![shanhai](/images/lvxing/lx7.png)
 
 * **南方双城记**
-![hangzhou_changsha](/images/lvxing/lv8.png)
+![hangzhou_changsha](/images/lvxing/lx8.png)
 
 
 
