@@ -24,7 +24,7 @@ redirect_from:
 ======
 
 * **海韵环岛，山青缀城**
-![qingdao](/images/lvxing/lx1.png)
+![qingdao](/images/lvxing/lx1.PNG)
 
 * **弯儿卡姆 兔 北京**
 ![beijing](/images/lvxing/lx2.png)
