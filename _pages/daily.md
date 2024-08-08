@@ -23,27 +23,29 @@ redirect_from:
 旅行 - 停停走走
 ======
 
-* 海韵环岛，山青缀城
+* **海韵环岛，山青缀城**
 ![qingdao](/images/lvxing/lv1.png)
 
-* 一个漫长的夏日
-![hainan](/images/lvxing/lv4.png)
+* **弯儿卡姆 兔 北京**
+![beijing](/images/lvxing/lv2.png)
 
-* 弯儿卡姆 兔 北京
-![beijing](/images/lvxing/lv3.png)
+* **东北春城and华北国际大都市**
+![changchun_shijiazhuang](/images/lvxing/lv2.png)
 
-* 探古都 觅美食 
-![xian](/images/lvxing/lv2.png)
+* **西部双城记**
+![xian_chengdu](/images/lvxing/lv4.png)
 
-* 珠海伶仃 杭州临平
-![zhuhaihangzhou](/images/lvxing/lv5.png)
+* **漫长的夏日**
+![hainan](/images/lvxing/lv5.png)
 
-* 第一次坐飞机的目的地
-![changsha](/images/lvxing/lv7.png)
+* **“这岛上没吃的啊”** 
+![zhuhai](/images/lvxing/lv6.png)
 
-* 身向榆关那畔行 
-![shanhai](/images/lvxing/lv6.png)
+* **身向榆关那畔行**
+![shanhai](/images/lvxing/lv7.png)
 
+* **南方双城记**
+![hangzhou_changsha](/images/lvxing/lv8.png)
 
 
 
