@@ -30,7 +30,7 @@ redirect_from:
 ![beijing](/images/lvxing/lx2.PNG)
 
 * **东北春城and华北国际大都市**
-![changchun_shijiazhuang](/images/lvxing/lx2.PNG)
+![changchun_shijiazhuang](/images/lvxing/lx3.PNG)
 
 * **西部双城记**
 ![xian_chengdu](/images/lvxing/lx4.PNG)
