@@ -37,4 +37,8 @@ redirect_from:
 
 [Researchgate](https://www.researchgate.net/profile/Dongye-Xu)|[ORCID主页](https://orcid.org/0000-0003-4278-7027)|[BiliBili](https://space.bilibili.com/397159427?spm_id_from=333.1007.0.0)|[新浪微博](https://weibo.com/u/5839452237)
 
+友情链接：
+
+[南开大学](https://www.nankai.edu.cn/)[南开大学电子信息与光学工程学院](https://ceo.nankai.edu.cn/)[南开大学现代光学研究所](https://imo.nankai.edu.cn/)[南开大学图书馆](https://lib.nankai.edu.cn)
+
 期待同您一起探讨更多话题！
