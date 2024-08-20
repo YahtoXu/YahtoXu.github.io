@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-remote_theme: pages-themes/slate@v0.2.0
+
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -274,7 +274,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+remote_theme: pages-themes/slate@v0.2.0
 # Plugins
 plugins:
   - jekyll-paginate
