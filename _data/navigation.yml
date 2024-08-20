@@ -5,9 +5,12 @@ main:
     
   - title: "Publications"
     url: /publications/
-
+    
   - title: "Daily"
-    url: /teaching/    
+    url: /Daily/    
+    
+  - title: "Campus"
+    url: /NKCampus/    
     
   - title: "News"
     url: /newstotal/    
