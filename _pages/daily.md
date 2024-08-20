@@ -31,7 +31,7 @@ redirect_from:
 * **弯儿卡姆 兔 北京**
 ![beijing](/images/lvxing/lx2.PNG)
 
-* **东北春城and华北国际大都市**
+* **东北春城 and 华北国际大都市**
 ![changchun_shijiazhuang](/images/lvxing/lx3.PNG)
 
 * **西部双城记**
