@@ -3,23 +3,22 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Daily"
-    url: /daily/
-    
   - title: "Publications"
     url: /publications/
 
+  - title: "Daily"
+    url: /teaching/    
+    
   - title: "News"
     url: /newstotal/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
+
+
