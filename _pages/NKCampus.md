@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-======
+
 ![tianjin](/images/nkcampus/cp1.JPG)
 ======
-
 ![tianjin](/images/nkcampus/cp2.JPG)
 ======
 ![tianjin](/images/nkcampus/cp3.JPG)
