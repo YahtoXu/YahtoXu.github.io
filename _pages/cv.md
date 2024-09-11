@@ -31,7 +31,7 @@ redirect_from:
 * **期刊论文**
   * [1] **D. Xu**, Z. Lu, S. Duan, et al. Autofocusing and Self-Healing Properties of Circular Mathieu Beam Carrying Orbital Angular Momentum[J]. *Optics & Laser Technology* 177, 111186 (2024).
   * [2] **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped Mathieu bottle beams based on geometric factor design[J]. *Optics Express* 32, 28978 (2024).
-  * [3] **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration of interference-pattern helico-conical beams[J]. *Chinese Optics Letters* 22, 090009 (2024).
+  * [3] **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration of interference-pattern helico-conical beams[J]. *Chinese Optics Letters* 22, 090009 (2024) [封面论文].
   * [4] Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics* 59, 107584 (2024).
   * [5] C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications* 564, 130616 (2024).
   * [6] M. Guo, ..., **D. Xu** , ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
