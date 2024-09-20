@@ -35,6 +35,7 @@ redirect_from:
   * [4] Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics* 59, 107584 (2024).
   * [5] C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications* 564, 130616 (2024).
   * [6] M. Guo, ..., **D. Xu** , ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
+  * [7] M. Guo, ..., **D. Xu** , ... et al. 40 Gbps high-speed free-space inter-island optical communication over 29 kilometers under turbulent near-sea surface environment [Submitted].
 
 * **会议论文**
   * [1] **D. Xu**, T. Xu, Y. Zhang, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
