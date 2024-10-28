@@ -34,6 +34,9 @@ redirect_from:
 * **“这岛上没吃的啊”** 
 ![zhuhai](/images/lvxing/lx6.PNG)
 
+* **江南佳丽地 锦绣帝王州**
+![nanjing](/images/lvxing/nanjing.jpg)
+
 * **身向榆关那畔行**
 ![shanhai](/images/lvxing/lx7.PNG)
 
