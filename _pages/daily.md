@@ -35,7 +35,7 @@ redirect_from:
 ![zhuhai](/images/lvxing/lx6.PNG)
 
 * **江南佳丽地 锦绣帝王州**
-![nanjing](/images/lvxing/nanjing.jpg)
+![nanjing](/images/lvxing/lvxing_nanjing.jpg)
 
 * **身向榆关那畔行**
 ![shanhai](/images/lvxing/lx7.PNG)
