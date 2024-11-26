@@ -20,7 +20,7 @@ redirect_from:
 ![qingdao](/images/lvxing/lx1.PNG)
 
 * **弯儿卡姆 兔 北京**
-![beijing](/images/lvxing/lx2.PNG)
+![beijing](/images/lvxing/beijing.jpg)
 
 * **东北春城 and 华北国际大都市**
 ![changchun_shijiazhuang](/images/lvxing/lx3.PNG)
