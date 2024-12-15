@@ -31,8 +31,8 @@ redirect_from:
 * **漫长的夏日**
 ![hainan](/images/lvxing/lx5.PNG)
 
-* **“这岛上没吃的啊”** 
-![zhuhai](/images/lvxing/lx6.PNG)
+* **越过“汕”“海”，却“深深”思念你** 
+![guangdong](/images/lvxing/lvxing_yue.png)
 
 * **江南佳丽地 锦绣帝王州**
 ![nanjing](/images/lvxing/lvxing_nanjing.jpg)
