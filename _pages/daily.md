@@ -41,7 +41,7 @@ redirect_from:
 ![shanhai](/images/lvxing/lx7.PNG)
 
 * **南方双城记**
-![hangzhou_changsha](/images/lvxing/lx8.PNG)
+![hangzhou_changsha](/images/lvxing/lvxing_hzcs.png)
 
 
 
