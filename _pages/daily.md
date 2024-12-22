@@ -14,7 +14,7 @@ redirect_from:
 旅行 - 停停走走
 ======
 * **古今交融，津津乐道**
-![tianjin](/images/lvxing/tianjin.png)
+![tianjin](/images/lvxing/lvxing_tianjin.png)
 
 * **海韵环岛，山青缀城**
 ![qingdao](/images/lvxing/lx1.PNG)
