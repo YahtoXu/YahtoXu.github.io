@@ -32,13 +32,14 @@ redirect_from:
   * [1] **D. Xu**, Z. Lu, S. Duan, et al. Autofocusing and Self-Healing Properties of Circular Mathieu Beam Carrying Orbital Angular Momentum[J]. *Optics & Laser Technology* 177, 111186 (2024).
   * [2] **D. Xu**, Y. Yao, Z. Lu,  et al. Manipulating arbitrarily shaped Mathieu bottle beams based on geometric factor design[J]. *Optics Express* 32, 28978 (2024).
   * [3] **D. Xu**, S. Duan, X. Mao, et al. Generation and reconfiguration of interference-pattern helico-conical beams[J]. *Chinese Optics Letters* 22, 090009 (2024) [封面论文].
-  * [4] **D. Xu**, Z. Lu, Y. Wang, et al. Propagation dynamics of autofocusing Mathieu vortex beams through atmospheric turbulence[J]. *Optics Communications* XX, 131569 (2025).
+  * [4] **D. Xu**, Z. Lu, Y. Wang, et al. Propagation dynamics of autofocusing Mathieu vortex beams through atmospheric turbulence[J]. *Optics Communications* 579, 131569 (2025).
   * [5] Z. Lu, **D. Xu**, C. Li, et al. Bidirectional high-purity structured light beams transformation based on multi-plane light conversion[J]. *Optics Express* XX, XXXXXX (2024).
   * [6] Z. Lu, M. Guo, **D. Xu**, et al. Multi-dimensional tunable arbitrary shape beams with engineered axial profile[J]. *Results in Physics* 59, 107584 (2024).
   * [7] C. Li, Z. Lu, **D. Xu**, et al. Research on High Precision Time-Frequency Transmission Under Low Available Bandwidth Based on Free Space Optical Communication with Special Beam[J]. *Optics Communications* 564, 130616 (2024).
   * [8] M. Guo, ..., **D. Xu** , ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
   * [9] M. Guo, ..., **D. Xu** , ... et al. 40 Gbps high-speed free-space inter-island optical communication over 29 kilometers under turbulent near-sea surface environment[J] *Journal of Lightwave Technology* XX, XXXXXX, (2024).
   * [10] M. Guo, ..., **D. Xu** , ... et al. Low-complexity 24-hour 29-km inter-island real-time FSO communication under strong turbulences[J]. *Optics Letters* 50, 546 (2024).
+  * [11] B. Li, ..., **D. Xu** , ... et al. XXXXXX. *Optical Engineering*, XX, XXXX, (2025).
 
 * **会议论文**
   * [1] **D. Xu**, T. Xu, Y. Zhang, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
