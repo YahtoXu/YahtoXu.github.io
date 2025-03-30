@@ -39,11 +39,12 @@ redirect_from:
   * [8] M. Guo, ..., **D. Xu** , ... et al. Experimental investigation of transmission diversity and reception aperture averaging for terrestrial near-field long-distance free-space optical turbulence residence [Submitted].
   * [9] M. Guo, ..., **D. Xu** , ... et al. 40 Gbps high-speed free-space inter-island optical communication over 29 kilometers under turbulent near-sea surface environment[J] *Journal of Lightwave Technology* XX, XXXXXX, (2024).
   * [10] M. Guo, ..., **D. Xu** , ... et al. Low-complexity 24-hour 29-km inter-island real-time FSO communication under strong turbulences[J]. *Optics Letters* 50, 546 (2024).
-  * [11] B. Li, ..., **D. Xu** , ... et al. XXXXXX. *Optical Engineering*, XX, XXXX, (2025).
+  * [11] B. Li, ..., **D. Xu** , ... et al. Long-range free-space inter-island optical communications in offshore surface environment. *Optical Engineering*, XX, XXXX, (2025).
 
 * **会议论文**
   * [1] **D. Xu**, T. Xu, Y. Zhang, et al. Object Identification Using Time-of-Flight Depth Camera and Data Fusion[C]//*CLEO: Applications and Technology*. Optica Publishing Group, 2022: JW3B. 173.
-  * [2] X. Wang, T. Xu, ..., **D. Xu**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
+  * [2] **D. Xu**, Z. Lu, M. Guo, et al. XXXXXX[c]//*CLEO-EUROPE. 2025
+  * [3] X. Wang, T. Xu, ..., **D. Xu**, et al. 3D Time-of-Flight Camera Based Face Mask Recognition Using Facial Contour and Artificial Neural Network[C]//Computational Optical Sensing and Imaging. Optica Publishing Group, 2022: JW2A. 23.
 
 发明专利
 ======
